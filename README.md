@@ -1,6 +1,6 @@
 Hi, I'm Fatemeh!👯
 
-More information on my [homepage](https://fatemehsrz.github.io/).
+Feel free to visit my [homepage](https://fatemehsrz.github.io/).
 
 
 <!--
