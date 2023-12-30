@@ -1,2 +1,1 @@
-Hi there 👋  <br />
-I care about Tech 🤖 and Humanity 🌱
+Tech 🤖 and Humanity 🌱
