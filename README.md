@@ -1,1 +1,1 @@
-Passionate about Tech 🤖 Fitness ⛹️‍♀️  and Humanity 🌱
+Passionate about Tech 🤖, Fitness ⛹️‍♀️  and Humanity 🌱
