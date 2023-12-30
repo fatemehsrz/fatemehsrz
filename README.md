@@ -1,1 +1,1 @@
-Tech 🤖 and Humanity 🌱
+Passionate about  Tech 🤖 and Humanity 🌱
