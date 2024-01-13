@@ -1,4 +1,4 @@
-Passionate about Tech 🤖, Fitness ⛹️‍♀️  and Humanity 🌱
+<h2> Passionate about Tech 🤖, Fitness ⛹️‍♀️  and Humanity 🌱 </h2>
 <br>
 
 Some Tools I Have Worked with: 
