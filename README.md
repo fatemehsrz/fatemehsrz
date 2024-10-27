@@ -1,6 +1,7 @@
 :octocat:  Hi,  I'm preparing a guide on ML concepts [here](https://github.com/fatemehsrz/ML_Concepts) 
 
-<a href="https://info.flagcounter.com/FrJ8"><img src="https://s11.flagcounter.com/count2/FrJ8/bg_FFFFFF/txt_000000/border_FFFFFF/columns_8/maxflags_70/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+ <a href='http://www.freevisitorcounters.com'>free counter</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=186a850f14ab22dc0e872913663c7bc2d69c18d2'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1254144/t/0"></script>
 
 
 
