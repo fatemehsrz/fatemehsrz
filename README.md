@@ -4,5 +4,5 @@
 
 ![Visitors](https://profile-counter.glitch.me/{fatemehsrz}/count.svg)  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatemehsrz&label=Profile%20views&color=ce9927&style=flat" alt="fatemehsrz" /> </p>
+
 
