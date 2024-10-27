@@ -4,7 +4,7 @@
 
 ![Visitors](https://profile-counter.glitch.me/{fatemehsrz}/count.svg)  
 
-[![Hits](https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg)](https://u8views.com/github/YaroslavPodorvanov)
+[![Hits](https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg)](https://u8views.com/github/fatemehsrz)
 
 
 
