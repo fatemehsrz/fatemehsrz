@@ -2,8 +2,6 @@
 
 <a href="https://www.justsoftwaresolutions.co.uk/flagpoll/more.php?id=1483"><img src="https://www.justsoftwaresolutions.co.uk/flagpoll/image.php?id=1483" alt="FlagPoll by Just Software Solutions Ltd"></a>
 
-<a href="https://www.justsoftwaresolutions.co.uk/flagpoll/more.php?id=1483"><img src="https://www.justsoftwaresolutions.co.uk/flagpoll/image.php?id=1483&size=small" alt="FlagPoll by Just Software Solutions Ltd"></a> 
-
 ![Visitors](https://profile-counter.glitch.me/{fatemehsrz}/count.svg)  
 
 
