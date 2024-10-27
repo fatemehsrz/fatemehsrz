@@ -4,5 +4,5 @@
 
    <div align="center">
         <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/<fatemehsrz>"/>  
+            src="https://widgetbite.com/stats/fatemehsrz"/>  
     </div>
