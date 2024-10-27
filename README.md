@@ -2,4 +2,4 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=fatemehsrz&countColor=%23263759)
 
-curl https://profile-counter.glitch.me/{fatemehsrz}/count.svg
+![Visitors](https://profile-counter.glitch.me/{fatemehsrz}/count.svg)
