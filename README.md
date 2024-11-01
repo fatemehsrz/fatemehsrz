@@ -1,5 +1,4 @@
 :octocat: Hi,  I'm preparing a guide on ML concepts [here](https://github.com/fatemehsrz/ML_Concepts) <br>
-:octocat: More about me on my homepage [here](https://fatemehsrz.github.io/) 
 
 <div align="center"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
