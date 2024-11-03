@@ -3,7 +3,11 @@
 :octocat: More about me on my homepage [here](https://fatemehsrz.github.io/) <br>
 
 
- <a href='https://www.easybooking.eu/produkte/channel-manager'>Channel Manager</a> 
+<!-- AtoZSEOTools Counter Code START -->
+<a href="https://www.coolseotools.com/website-visitor-counter" target="_blank" title="Web Counter">
+<img src="https://www.coolseotools.com/website-visitor-counter/count/&style=style10&show=u&num=6&uid=Vp"  title="Web Counter" alt="AtoZSEOTools Web Counter" />
+</a>
+<!-- AtoZSEOTools Counter Code END -->
  
 ![](https://komarev.com/ghpvc/?username=fatemehsrz)
 
