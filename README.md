@@ -13,6 +13,6 @@
 
 
 
-
+<a href="https://www.freecounterstat.com" title="html code for visitor counter"><img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=fakguadfyzcu37tnbuue4kpauf7n4tpa" border="0" title="html code for visitor counter" alt="html code for visitor counter"></a>
 
 
